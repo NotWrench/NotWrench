@@ -8,12 +8,12 @@ Full stack developer focused on modern JavaScript and TypeScript ecosystems. I d
 
 ## Tech Stack
 
-- Languages: TypeScript, JavaScript
+- Languages: TypeScript, JavaScript, Python
 - Frontend: React, Next.js
 - Mobile: React Native
-- Backend: tRPC, Fastify, Firebase
+- Backend: tRPC, Fastify, Firebase, Supabase
 - Databases: PostgreSQL, MongoDB
-- Platform and Tooling: Turborepo, Docker, monorepo workflows
+- Platform and Tooling: Bun, Turborepo, Docker, monorepo workflows
 
 ## Current Focus
 
@@ -24,15 +24,32 @@ Full stack developer focused on modern JavaScript and TypeScript ecosystems. I d
 
 ## Projects
 
-- Project One - Short description and link
-- Project Two - Short description and link
-- Project Three - Short description and link
+- **Focusami** - https://focusami.com  
+  Minimalist focus timer built for deep work and consistency. Features session-based cycles, configurable intervals, and a distraction-free UI with strong emphasis on performance and accessibility.  
+  Stack: TypeScript, Next.js  
+
+- **LunaFlow** - https://lunaflow.tech  
+  Project tracking platform for managing tasks, workflows, and teams. Includes authentication, real-time data handling, and role-based access with a clean, low-friction UI. Built with a serverless-first approach.  
+  Stack: TypeScript, Next.js, Supabase, Vercel  
+
+- **Cosmicord.js** - https://github.com/NotWrench/Cosmicord.js  
+  Lightweight Lavalink wrapper for Discord music bots that simplifies WebSocket handling. Focused on developer experience with clean APIs, strong error handling, and easy integration.  
+  Stack: Node.js, Discord.js, WebSockets, Lavalink  
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotWrench&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotWrench&layout=compact&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=NotWrench&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NotWrench&show_icons=true&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotWrench&layout=compact&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NotWrench&hide_border=true" height="160" />
+</p>
+
+## Fun Fact
+
+- I got into coding because of [SudhanPlayz](https://github.com/SudhanPlayz), which pretty much kicked off everything I’m building today
 
 ## Contact
 
