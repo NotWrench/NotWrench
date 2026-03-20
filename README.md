@@ -37,5 +37,5 @@ Full stack developer focused on modern JavaScript and TypeScript ecosystems. I d
 ## Contact
 
 - GitHub: https://github.com/NotWrench
-- Email: Available on request
-- LinkedIn: Available on request
+- Email: notwrench401@gmail.com
+- LinkedIn: https://www.linkedin.com/in/prajan-bala/
