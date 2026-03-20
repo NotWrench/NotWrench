@@ -37,5 +37,5 @@ Full stack developer focused on modern JavaScript and TypeScript ecosystems. I d
 ## Contact
 
 - GitHub: https://github.com/NotWrench
-- Email: your-email@example.com
-- LinkedIn: https://linkedin.com/in/your-handle
+- Email: Available on request
+- LinkedIn: Available on request
