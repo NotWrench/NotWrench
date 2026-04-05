@@ -37,12 +37,6 @@ Full stack developer focused on modern JavaScript and TypeScript ecosystems. I d
   Stack: Node.js, Discord.js, WebSockets, Lavalink  
 
 ## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotWrench&show_icons=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotWrench&layout=compact&hide_border=true" height="160" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NotWrench&hide_border=true" height="160" />
 </p>
