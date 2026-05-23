@@ -11,7 +11,7 @@ Full stack developer focused on modern JavaScript and TypeScript ecosystems. I d
 - Languages: TypeScript, JavaScript, Python
 - Frontend: React, Next.js
 - Mobile: React Native
-- Backend: tRPC, Fastify, Firebase, Supabase
+- Backend: Hono, Elysia, tRPC, Fastify, Supabase
 - Databases: PostgreSQL, MongoDB
 - Platform and Tooling: Bun, Turborepo, Docker, monorepo workflows
 
