@@ -36,11 +36,6 @@ Full stack developer focused on modern JavaScript and TypeScript ecosystems. I d
   Lightweight Lavalink wrapper for Discord music bots that simplifies WebSocket handling. Focused on developer experience with clean APIs, strong error handling, and easy integration.  
   Stack: Node.js, Discord.js, WebSockets, Lavalink  
 
-## Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NotWrench&hide_border=true" height="160" />
-</p>
-
 ## Fun Fact
 
 - I got into coding because of [SudhanPlayz](https://github.com/SudhanPlayz), which pretty much kicked off everything I’m building today
